@@ -4,6 +4,7 @@
 - 📫 How to reach me - @Taran The Idiot on hc slack
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like potatos
+- im a sigma - jordan
 
 <!---
 Overlord-Runt/Overlord-Runt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
