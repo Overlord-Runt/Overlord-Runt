@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @Overlord-Runt
-- 👀 I’m interested in random hardware things
-- 🌱 I’m currently learning how to make an atomic bomb
-- 📫 How to reach me - @Taran The Idiot on hc slack
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I like potatos
-- im a sigma - jordan
+# Hello there, I am Taran (aka Overlord Runt, aka Taran the Idiot)
 
-<!---
-Overlord-Runt/Overlord-Runt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I like doing lots of hardware projects including keyboards, RC cars, and whatever piques my interest.\
+
+I dont have that many normal ideas, which is why you will see many questionable decisions in my projects.\
+But my question to you is: Where does it not work?
+
+I absolutely despise doing software but I do dabble in a few game dev projects.
+
+
+
+
