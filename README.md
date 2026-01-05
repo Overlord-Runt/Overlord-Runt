@@ -1,4 +1,4 @@
-# Hello there, I am Taran (aka Overlord Runt, aka Taran the Idiot)
+# Hello there, I am Taran 
 
 I like doing lots of hardware projects including keyboards, RC cars, and whatever piques my interest.
 
