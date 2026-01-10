@@ -7,7 +7,7 @@ But my question to you is: Where does it not work?
 
 I absolutely despise doing software but I do dabble in a few game dev projects.
 
-Personal site exists but also doesnt exist [here](https://taranium.xyz).
+Personal site exists but also doesnt exist [here](https://taranium.xyz). (yes its in docusaurus, screw you if you think im gonna torture myself through web dev)
 
 Have fun reading through my repos and doing whatever you want to here
 
