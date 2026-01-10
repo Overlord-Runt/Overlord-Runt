@@ -11,6 +11,8 @@ Personal site exists but also doesnt exist [here](https://taranium.xyz).
 
 Have fun reading through my repos and doing whatever you want to here
 
+```
 A potato is not a projectile
   - the person i threw a potato at, probably
+```
 
